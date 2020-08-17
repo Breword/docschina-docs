@@ -1,1 +1,1 @@
-# Transalte open source project docs
+# Translate open source project docs
